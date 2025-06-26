@@ -4,24 +4,24 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 
-# Download NLTK stopwords if not already present
-nltk.download('stopwords')
+nltk.download('stopwords', quiet=True)
 
-# Read the CSV file
-df = pd.read_csv('Files/biographical_dataset_june15_2025.csv')
-
-# Combine all text in 'AI Summary in English' column
+csv_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TPED\files\biographical_dataset_june15_2025.csv'
+df = pd.read_csv(csv_path)
 total_text = ' '.join(df['AI Summary in English'].dropna().astype(str))
-
-# Tokenize and remove stopwords
 stop_words = set(stopwords.words('english'))
 words = [word for word in total_text.split() if word.lower() not in stop_words]
 filtered_text = ' '.join(words)
 
-# Generate and display a word cloud
 wordcloud = WordCloud(width=800, height=400, background_color='white').generate(filtered_text)
 plt.figure(figsize=(15, 7))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 plt.title('WordCloud for AI Summary in English')
+plt.tight_layout()
+
+# Save the wordcloud image to the visualizations folder
+output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TPED\visualizations\ai_summary_wordcloud.png'
+plt.savefig(output_path)
 plt.show()
+print(f'Wordcloud saved to {output_path}')

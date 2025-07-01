@@ -1,13 +1,13 @@
-# The Palgrave Encyclopaedia of Turkish Economists and Economics
+# The Turkish Political Economy Database, from the 1800s to Date
 
 **Project Lead:** Altuğ Yalçıntaş, Ankara University  
 **ORCID:** [0000-0002-3344-0497](https://orcid.org/0000-0002-3344-0497)  
-**Project Website:** [trpolecon.ai](https://trpolecon.ai)  
+**Contributors:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap 
 **Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
 
 ## Abstract
 
-_The Palgrave Encyclopaedia of Turkish Economists and Economics_ is a digital humanities initiative that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Ottoman Empire and the Republic of Türkiye from the 1800s to the present. This project builds upon the **Turkish Political Economy Database, from the 1800s to Date**, and integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
+_The Turkish Political Economy Database_ is a digital humanities project that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Republic of Türkiye and the Ottoman Empire from the 1800s to the present. This project integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
 
 Our approach combines traditional archival research with cutting-edge tools, including large language models (LLMs), to generate AI-supported essays that undergo rigorous human review. The project aims to create an openly accessible, searchable platform for researchers interested in Turkish economic history, political economy, and digital historiography.
 
@@ -18,14 +18,14 @@ Our approach combines traditional archival research with cutting-edge tools, inc
 - Create biographical entries for ~700 economists, scholars, translators, and policymakers.
 - Build and maintain a structured dataset of biographical and bibliographical metadata.
 - Use AI-assisted tools (e.g., ChatGPT, Claude, NotebookLM) to generate summaries and essays.
-- Publish interactive visualisations and searchable entries at [trpolecon.ai](https://trpolecon.ai).
+- Publish interactive visualisations and searchable entries.
 - Provide open access to data, code, and documentation for scholarly reuse.
 
 ---
 
 ## Selection Criteria
 
-Entries in the Encyclopaedia include:
+Entries in the database include:
 
 - **Turkish-speaking scholars** active from the 1800s onward (e.g., Mehmet Şerif, Sencer Divitçioğlu),
 - **Non-Turkish authors** with published research on the Ottoman/Turkish economy (e.g., Charles Issawi),
@@ -46,20 +46,6 @@ This project employs digital humanities techniques including:
 - **Human-in-the-loop editorial process** to verify all AI-generated content for scholarly rigour.
 
 Each entry is derived from structured data and enriched with narrative elements, references, and visual data. Biographical essays are supported by textual sources, citations, and metadata exports.
-
----
-
-## Research Questions Supported
-
-Examples of research questions facilitated by this database include:
-
-1. How have schools of economic thought evolved in Türkiye from the 1800s to today?
-2. What role did Ottoman and Republican scholars play in shaping national economic identity?
-3. How did political transitions influence economic theories and institutions in Türkiye?
-4. What is the intellectual legacy of movements like the *Kadro* group?
-5. How did external influences (e.g., German Historical School, Austrian School) shape Turkish economics?
-
-More examples and full dialogue with AI Historian can be found in project documentation.
 
 ---
 
@@ -87,11 +73,6 @@ This project contributes to:
 
 Upon project completion, the data, essays, tools, and visualisations will be made fully open-access to support research, teaching, and reuse.
 
----
-
-## How to Contribute
-
-We welcome contributions from scholars, librarians, and researchers. To propose new entries or revisions, or to collaborate on technical development, please contact the project lead or submit a pull request to this repository.
 
 ---
 
@@ -106,8 +87,3 @@ Yalçıntaş, A. (n.d.). *The Palgrave Encyclopaedia of Turkish Economists and E
 All code and data will be released under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license unless otherwise stated.
 
 ---
-
-## Acknowledgements
-
-This project is supported by contributors from Turkish and international academic institutions, as well as by advances in public AI technologies. Special thanks to the developers and researchers who maintain the Turkish Political Economy Database and provide methodological support for AI integration.
-

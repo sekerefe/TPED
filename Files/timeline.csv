@@ -1,0 +1,89 @@
+﻿id,date,type,explanation,references
+timelineID1,1803,Publication,Mehmed Emin Behiç. Sevânihü’l-Levâyih [Allowances and Regulations]. xxx,Yalçıntaş et al. (2022-2025).
+timelineID2,1829,Publication,"Charles Colville Frankland. Travels to and from Constantinople, in the Years 1827 and 1828. This was one of the first orientalist texts on the Ottoman Empire in the nineteenth century.",Yalçıntaş et al. (2022-2025).
+timelineID3,1830s,Publication,Risale-i Tedbir-i Umran-ı Mülki [Booklet of Administration of Public Prosperity]. One of the first economics texts was published in Turkish. Its author has been unknown.,"Ortaylı (1983), Kılınçoğlu (2018)."
+timelineID4,1831,Institution,Heybeliada Greek School of Trade (Ellinoemboriki Sholi Tis Halkis) was founded in İstanbul. This was one of the first schools where economic courses were offered.,
+timelineID5,1840s,Institution,"Sarantis Archigenes taught economics courses at Mekteb-i Tıbbiye. The textbook he used was entitled Tasarrufat-ı Mülkiye, a Turkish translation of Pellegrino Rossi’s Cours d’economie politique (1840).","Emiroğlu (2021a), Özgür and Genç (2011, 2014), Genç ve Özgür (2011)."
+timelineID6,1846,Publication,Darülfünun-u Şahane was founded. This institution was intended to offer university level courses.,
+timelineID7,1852,Publication,"Jean Baptiste Say. İlm-i Tedbir-i Menzil [The Science of the Administration of Home/Household, Turkish translation of Jean Baptiste Say’s Catechisme d’economie politique, 1815)]. This was the first classical political economy text translated into Turkish.",Yalçıntaş et al. (2022-2025).
+timelineID8,1857,Publication,"Ceride-i Ticaret [Chronicle of Trade], the first economic periodical, was founded. Many of the articles were published without an author. It was shut down in 1858.",Demir (2014).
+timelineID9,1857,Institution,Aroni Ticaret Mektebi [Aroni Trade School] was founded in İzmir. This was one of the first schools in the Anatolian Ottoman Empire where economic courses were offered.,
+timelineID10,1859,Institution,"Mekteb-i Mülkiye was founded in İstanbul. Mülkiye was one the first social sciences institutions in the Ottoman Empire. Today, it is part of Ankara University. A course on political economy, entitled “İstihsal-i Servet-ü Yesar-i Mülkü Tebaa [Production of the Wealth of the Nation and Its Subjects],” was taught by Emin Efendi (AKA Emil Efendi).
+Turrel Trade School was founded in İzmir.",Baskıcı (2009).
+timelineID11,1859,Publication,"Nassau William Senior. A Journal Kept in Turkey and Greece in the Autumn of 1857, and the Beginning of 1858. One of the most important orientalist texts on the Ottoman economy in the nineteenth century.",Yalçıntaş et al. (2022-2025).
+timelineID12,1860,Publication,Charles Wells. İlm-i Tedbir-i Milk [The Science of the Administration of the State]. The first non-translated economics textbook in Turkish. The book was published in London.,Tütengil (1965).
+timelineID13,1860,Event,Renieri Hususi Mektebi was founded in İzmir.,
+timelineID14,1861,Publication,Mehmed Şerif. İlm-i Emval-i Mülkiye [The Science of National Wealth]. The first non-translated economics textbook in Turkish published by a Muslim author.,Berkes (1972).
+timelineID15,1863,Publication,"Mehmed Şerif Efendi was one of the first authors who published “scientific” articles in the periodical called Tercüman-ı Ahval [xxx]. Among his publications were “Sanayi ve Ziraattan Hangisinin Hakkımızda Hayırlı Olduğuna Dairdir [xxx]”, “Ekonomi Politik İlminin Tarikiyle Hudud-ı Tabiyesinin Tahdidi Beyanındadır [xxx]”, “Bankaların Envaı ile Tabiatlarına Dair [xxx]” and “İtibarı Umum-i Ticarete Dair [xxx].”.",Demir (2014 and 2019)
+timelineID16,1871,Event,Robert College was founded.,Kaya Erman and Yalçıntaş (2020).
+timelineID17,1876,Event,The First Constitutional Era in the Ottoman Empire.,Yalçıntaş et al. (2022-2025).
+timelineID18,1877,Publication,Among the courses on political economy offered at Mekteb-i Mülkiye were “İlm-i Servet [The Science of Wealth]” and “Usul-i Maliye ve Varidat ve Tekalif [Principles of Public Finance and Taxation].”,
+timelineID19,1878,Institution,Mekteb-i Fünun-u Maliye [The School of the Science of Finance] was founded in İstanbul.,
+timelineID20,1978,Institution,Mustafa Zühtü İnhan was appointed as a lecturer at Darülfünun.,Tok and Eren (2023).
+timelineID21,1900,Publication,"Mehmed Cavid Bey. İlmi İktisat [Economic Science]. This was one of the first monographs in Turkish that used ""iktisat"" (economics) in the title.",Emiroğlu (2021b).
+timelineID22,1906,Event,"Selanik Ticaret Mektebi [Thessaloniki Trade School] was founded in Thessaloniki.
+İttihat ve Terakki İzmir Merkez Ticaret Mektebi [Unity and Progress School of Trade in Central İzmir] was founded in İzmir.",
+timelineID23,1908,Event,The Second Constitutional Era in the Ottoman Empire.,Yalçıntaş et al. (2022-2025).
+timelineID24,1902,Publication,"Sosyalist Meslekleri, Turkish translation of Vilfredo Pareto's Les systèmes socialistes, 1902.",Yalçıntaş (2023).
+timelineID25,1902,Event,Yadigar-i Terakki Ticaret Mektebi was founded in Thessaloniki.,
+timelineID26,1910,Publication,"Parvus Efendi. Der Staat, die Industrie und der Sozialismus. This was the first book published by an Ottoman national (tebaa) in a foreign language.",Yalçıntaş et al. (2022-2025).
+timelineID27,1912,Institution,"The Department of Finance (kısm-i mali) was founded at Mülkiye.
+A course on political economy, entitled “İlm-i İktisat [The Science of Economics]” was taught at Darulfünun.
+İktisat-ı İçtimai, an incomplete translation of Karl Marx’s Das Kapital, 1867.","Hoffman (1919, 1919 [2023]), Baskıcı (2009), 
+Eren (2023b), Fındıkoğlu (1946: xxx)."
+timelineID28,1914,Publication,"“Mesaliki İktisadiye,” the first course on the history of economic thought by Friedrich Hoffman and Münir Bey.",Fındıkoğlu (1946: 53).
+timelineID29,1915,Institution,Mekteb-i Mülkiye was shut down due to the First World War.,Baskıcı (2009).
+timelineID30,1914-1918,Institution,Friedrich Hoffman and Anton Fleck were two of the first foreign lecturers officially invited to the Ottoman Empire to teach economics (1916-1918). Hoffman was the first economics professor with a PhD degree in Turkey.,"Fındıkoğlu (1946: 54), Eren (2023a, 2023b)."
+timelineID31,1917,Publication,The Soviet Revolution.,Yalçıntaş et al. (2022-2025).
+timelineID32,1917,Institution,The Department of Government and Finance (idari ve mali şube) was founded at Darülfünun.,Eren (2023b).
+timelineID33,1918,Publication,Mekteb-i Mülkiye was reopened.,Baskıcı (2009).
+timelineID34,1919,Institution,A doctoral program at Darülfünun in İstanbul began. It lasted until 1933 when Darülfünun was shut down in the republican period.,Partalcı (2014).
+timelineID35,1921,Publication,Edip Serdengeçti was the first Ottoman citizen to receive a doctoral degree with a thesis in political economy from a research institution within the Ottoman Empire (Darülfünun). The title of his thesis was Mülkiyet Nehcinin Vech-i Tekâmülü [The Evolutionary Aspect of Property Law].,Partalcı (2014).
+timelineID36,1922,Publication,"Versay Sulhu'nun Netayic-i İktisadiyesi, Turkish translation of John Maynard Keynes’s The Economic Consequences of Peace, 1919.",Yalçıntaş et al. (2022-2025).
+timelineID37,1923,Event,The Republic of Turkey was founded.,Yalçıntaş et al. (2022-2025).
+timelineID38,1923,Institution,"İzmir İktisat Kongresi [İzmir Economic Congress], was held in İzmir. The congress was a milestone indicating the liberal policies of the new republic.",Yalçıntaş et al. (2022-2025).
+timelineID39,1924,Institution,"John Dewey was invited to Turkey to write reports on the educational system in the country.
+Türkiye İş Bankası, the first national bank in Turkey, was founded.",Kaya Erman and Yalçıntaş (2021).
+timelineID40,1928,Event,The Arabic-based alphabet was replaced by the Latin-based new alphabet.,Yalçıntaş et al. (2022-2025).
+timelineID41,1929,Event,"The Great Depression 
+Milli İktisat ve Tasarruf Cemiyeti was founded.",
+timelineID42,1925,Publication,"Charles Gide and Charles Rist. Fizyokratlardan Günümüze Kadar İktisadî Mezhepler Tarihi [Turkish translation of Histoire des doctrines économiques, depuis les physiocrates jusqu'à nos jours, 1909]. This is the first history of economics textbook published in Turkish.",Yalçıntaş (2023).
+timelineID43,1930,Publication,Wilhelm Röpke. “Fascist Economics”. This was the first international article published by a university professor in Turkey.,Yalçıntaş et al. (2022-2025).
+timelineID44,1933,Institution,İstanbul University was founded.,Yalçıntaş et al. (2022-2025).
+timelineID45,1934,Publication,Şükrü Baban. İktisadi Meslekler [Economic Doctrines]. This is the first non-translated history of economics textbook in Turkish.,Yalçıntaş (2023).
+timelineID46,1935,Event,İzmir Dış Ticaret Mesleki ve Anadolu Lisesi [İzmir School of Foreign Trade],
+timelineID47,1936,Institution,"Mekteb-i Mülkiye was moved to Ankara. The name of the school was replaced by the School of Political Sciences where the Section of Finance (mali şube) offered courses on economics. The director of the school was a historian and philosopher of economics, Mehmet Emin Erişirgil.
+The Faculty of Economics at İstanbul University has been the first economics faculty in Turkey.",Baskıcı (2009).
+timelineID48,1936,Publication,Wilhelm Röpke. Ekonomi İlminin Tekamül Tarihi [The Progressive History of Economic Science].,Yalçıntaş (2023).
+timelineID49,1941,Publication,The first doctoral programme in economics was founded at İstanbul University.,
+timelineID50,1943,Publication,"Feridun Ergin. Harp Zamanında Devletin Ekonomiye Müdahalesi [State Intervention in the Economy in the Times of War] advisor: Fritz Neumark). Ergin was the first PhD who earned his degree from a Turkish university (İstanbul University).
+Fritz Neumark. İktisadi Düşünce Tarihi [History of Economic Thought]",Yalçıntaş (2023).
+timelineID51,1945,Publication,"Mehmet Emin Erişirgil. Ekonomi Meslekleri: XVI. Yüzyıldan Zamanımıza Kadar [Schools of Economics, from the Sixteenth Century to the Present].",Yalçıntaş (2023).
+timelineID52,1946,Event,Ankara University was founded.,Yalçıntaş et al. (2022-2025).
+timelineID53,1948,Publication,"Milletlerin Zenginliği, Turkish translation of Adam Smith’s The Wealth of Nations.",Yalçıntaş et al. (2022-2025).
+timelineID54,1950,Institution,The School of Political Sciences joined Ankara University. One of the departments of the faculty was the Department of Finance (mali şube).,Baskıcı (2009).
+timelineID55,1955,Event,"The Turkish Institute for Economic History was founded.
+The Section of Finance and Economics (İktisat ve Maliye Şubesi) was founded at Ankara University.
+The Turkish Economic Association, formerly Milli İktisat ve Tasarruf Cemiyeti, was founded",
+timelineID56,1957,Publication,"Gülten Kazgan, Zirai Gelir Meselesi [The Issue of Agricultural Income] (advisor: xxx) and Mualla Öncel, Xxx (advisor: xxx) were the first female PhDs who earned their degrees from a Turkish university (İstanbul University).",Yalçıntaş (2023).
+timelineID57,1959,Publication,Şevket Süreyya Aydemir. Suyu Arayan Adam [The Man Seeking Water]. This was the first autobiography published by an economist.,
+timelineID58,1959,Event,"Middle East Technical University, Department of Economics and Statistics was founded.",
+timelineID59,1960,Publication,"Sadun Aren. İstihdam, Para ve İktisadi Politika [Employment, Money, and Economic Policy]. This was the first macroeconomics textbook published in Turkish.",
+timelineID60,1960,Institution,"Devlet Planlama Teşkilatı [State Planning Organization] was founded. Jan Tinbergen played a significant role in the foundation of the Organization.
+Tuncer Bulutay defended his thesis entitled Başlıca İktisadi Büyüme Nazariyeleri [Major Theories of Economic Growth] and earned the first PhD degree in economics from Ankara University (advisor: Sadun Aren).",
+timelineID61,1960,Event,Coup d’etat,
+timelineID62,1962,Publication,Sencer Divitçioğlu. Mikroiktisat [Microeconomics]. This was the microeconomics textbook published in Turkish.,
+timelineID63,1966,Publication,"Sencer Divitçioğlu. Asya Tipi Üretim ve Az-Gelişmiş Ülkeler [Asiatic Mode of Production and Underdeveloped Countries]. This book initiated the debate on Asiatic mode of production in Turkey.
+Kapital, first complete translation of Karl Marx’s Das Kapital (vol 1, 1867) from its German original.",Yalçıntaş (2012).
+timelineID64,1967,Publication,"Sencer Divitçioğlu. Asya Üretim Tarzı ve Osmanlı Toplumu [Asiatic Mode of Production and the Ottoman Society]. In this book, Divitçioğlu claims that the Ottoman Empire should be examined in terms of the Asiatic mode of production.",
+timelineID65,1969,Publication,Gülten Kazgan. İktisadi Düşünce veya Politik İktisadın Evrimi [Economic Thought or the Evolution of Economics]. This has been the most popular book on the history of economic thought in Turkey.,Yalçıntaş (2023).
+timelineID66,1971,Event,"Coup d’etat
+Boğaziçi University, Department of Economics was founded.",
+timelineID67,1974,Publication,Korkut Boratav. 100 Soruda Türkiye’de Devletçilik [Statism in Turkey in 100 Questions],
+timelineID68,1975,Event,The Department of Economics at Ankara University was founded.,
+timelineID69,1980,Event,Coup d’etat,Yalçıntaş et al. (2022-2025).
+timelineID70,1985,Publication,"Protestan Ahlâkı ve Kapitalizmin Ruhu, Turkish translation of Weber's The Protestant Ethics and the Spirit of Capitalism, 1905.",Yalçıntaş et al. (2022-2025).
+timelineID71,1993,Event,Koç University was founded as the first private university in Turkey.,
+timelineID72,2007,Publication,"Ekonomi Politiğin ve Vergilendirmenin İlkeleri, Turkish translation of Ricardo's The Principles of Political Economy and Taxation, 1817.",Yalçıntaş et al. (2022-2025).
+timelineID73,2007,Institution,The Turkish Initiative for Economic Thought was established. The initiative has been a network of scholars specialised in the history of economic thought and economic philosophy. It has organised workshops on a selected subject in a different city. The articles presented in the workshops have been published by national publication houses.,
+timelineID74,2019,Institution,"The Department of Politics and Economics was founded at the Faculty of Political Sciences, Ankara University.",Yalçıntaş et al. (2022-2025).

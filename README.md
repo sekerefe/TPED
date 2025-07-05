@@ -2,9 +2,9 @@
 
 **Project Lead:** Altuğ Yalçıntaş, Ankara University  
 **ORCID:** [0000-0002-3344-0497](https://orcid.org/0000-0002-3344-0497)  
-**Contributors:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap 
-**Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
+**Contributors:** Özgür Kızılyurt, Vural Başaran, Alaaddin Tok, Neşe Voyvoda, Şebnem Gelmedi, Ekin Bal, Orçun Kasap
 
+**Keywords:** Turkish economic ideas, digital humanities, AI-assisted historical research
 ## Abstract
 
 _The Turkish Political Economy Database_ is a digital humanities project that documents over 700 economists, translators, and thinkers who have contributed to the development of economic thought in the Republic of Türkiye and the Ottoman Empire from the 1800s to the present. This project integrates human and AI-assisted methodologies to curate, analyse, and narrate rich biographical and bibliographical data.
@@ -42,7 +42,7 @@ This project employs digital humanities techniques including:
 - **Data curation:** over 80 metadata fields per author (e.g., education, publications, nationality),
 - **AI-assisted summarisation and essay writing,** using LLMs such as ChatGPT, Gemini, and Claude,
 - **Document digitisation and archival work** (scanning and transcribing sources),
-- **Data visualisation and mapping,** available interactively on [trpolecon.ai](https://trpolecon.ai),
+- **Data visualisation and mapping,** available interactively on Github and Tableau,
 - **Human-in-the-loop editorial process** to verify all AI-generated content for scholarly rigour.
 
 Each entry is derived from structured data and enriched with narrative elements, references, and visual data. Biographical essays are supported by textual sources, citations, and metadata exports.
@@ -78,7 +78,7 @@ Upon project completion, the data, essays, tools, and visualisations will be mad
 
 ## Citation
 
-Yalçıntaş, A. (n.d.). *The Palgrave Encyclopaedia of Turkish Economists and Economics*. Ankara University. Retrieved from [https://trpolecon.ai](https://trpolecon.ai)
+Yalçıntaş, A., Kızılyurt, Ö., Başaran, V., Tok, A. Voyvoda, N., Gelmedi, Ş., Bal, E., Kasap, O. (n.d.). *The Turkish Political Economy Database, from the 1800s to Date*. Ankara University. Retrieved from Github [https://github.com/sekerefe/TRPolecon]
 
 ---
 

@@ -13,6 +13,9 @@
 
 **Network Map of Authors and Institutions** 
 [Python Code] [Python Visualization] [Tableau Public] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
+
+**Sankey Chart of Institutions** 
+[Python Code] [Python Visualization] [[Tableau Public]](https://public.tableau.com/views/SankeyChart_17517397707640/SankeyChart-TheTurkishPoliticalEconomyDatabase?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Tabulations
 **A List of All Authors** 
 [[Python Code]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_code/sample_list_of_authors.py) [[Python Visualization]](visualizations_output/sample_list_of_authors.txt) [Tableau Public]

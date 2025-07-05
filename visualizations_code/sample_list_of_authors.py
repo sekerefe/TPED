@@ -1,8 +1,7 @@
-from matplotlib import pyplot as plt
 import pandas as pd
 
 # Path to the CSV file
-csv_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\files\biographical_library.csv'
+csv_path = r'.\files\biographical_library.csv'
 
 # Read the CSV file
 df = pd.read_csv(csv_path)
@@ -33,7 +32,7 @@ print(authors_sample)
 total_row_count = len(df)
 
 # Save the list as a text file to the visualizations_output folder
-output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\visualizations_output\sample_list_of_authors.txt'
+output_path = r'.\visualizations_output\sample_list_of_authors.txt'
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(authors_sample.to_string(index=False))
     f.write(f"\n\nThe total number of authors at the moment is {total_row_count}")

@@ -6,9 +6,9 @@ from nltk.corpus import stopwords
 
 nltk.download('stopwords', quiet=True)
 
-csv_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TPED\files\biographical_dataset_june15_2025.csv'
+csv_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\Files\biographical_library.csv'
 df = pd.read_csv(csv_path)
-total_text = ' '.join(df['AI Summary in English'].dropna().astype(str))
+total_text = ' '.join(df['ai_summary'].dropna().astype(str))
 stop_words = set(stopwords.words('english'))
 words = [word for word in total_text.split() if word.lower() not in stop_words]
 filtered_text = ' '.join(words)
@@ -21,7 +21,7 @@ plt.title('WordCloud for AI Summary in English')
 plt.tight_layout()
 
 # Save the wordcloud image to the visualizations folder
-output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TPED\visualizations\ai_summary_wordcloud.png'
+output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\Files\output\ai_summary_wordcloud.png'
 plt.savefig(output_path)
 plt.show()
 print(f'Wordcloud saved to {output_path}')

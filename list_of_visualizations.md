@@ -10,6 +10,9 @@
 
 **Word Cloud of AI Summaries** 
 [[Python Code]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_code/ai_summary_wordcloud.py) [[Python Visualization]](https://github.com/sekerefe/TRPolecon/blob/main/visualizations_output/ai_summary_wordcloud.png) [Tableau Public]
+
+**Network Map of Authors and Institutions** 
+[Python Code] [Python Visualization] [Tableau Public] [[Graph Commons]](https://graphcommons.com/graphs/803e84ac-062d-48ec-b0f2-816fc529f01d)
 ## Tabulations
 **A List of All Authors** 
 [Python Code] [Python Visualization] [Tableau Public]

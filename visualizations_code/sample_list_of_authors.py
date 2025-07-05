@@ -1,3 +1,4 @@
+from matplotlib import pyplot as plt
 import pandas as pd
 
 # Path to the CSV file
@@ -27,8 +28,9 @@ authors_sample['Date of Death'] = authors_sample['Date of Death'].replace(0, 'No
 # Print the sample list of authors
 print(authors_sample)
 
-# Save the list as an html file to the visualizations_output folder
-output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\visualizations_output\sample_list_of_authors.html'
+# Save the list as a text file to the visualizations_output folder
+output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\visualizations_output\sample_list_of_authors.txt'
 with open(output_path, 'w', encoding='utf-8') as f:
-    f.write(authors_sample.to_html(index=False))
+    f.write(authors_sample.to_string(index=False))
 print(f'Sample list of authors saved to {output_path}')
+print("Total Number of Authors at the Moment: 670")

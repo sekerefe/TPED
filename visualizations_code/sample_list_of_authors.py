@@ -7,8 +7,9 @@ csv_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Poli
 # Read the CSV file
 df = pd.read_csv(csv_path)
 
-# Select the relevant columns and get the first 20 rows
-authors_sample = df[['id', 'date_of_birth', 'date_of_death']].head(20)
+# Select the relevant columns and get the top 10 and bottom 10 rows
+selected = df[['id', 'date_of_birth', 'date_of_death']]
+authors_sample = pd.concat([selected.head(10), selected.tail(10)], ignore_index=True)
 
 # Rename columns
 authors_sample = authors_sample.rename(columns={
@@ -28,9 +29,13 @@ authors_sample['Date of Death'] = authors_sample['Date of Death'].replace(0, 'No
 # Print the sample list of authors
 print(authors_sample)
 
+# Count the total number of rows in the original CSV file (excluding header)
+total_row_count = len(df)
+
 # Save the list as a text file to the visualizations_output folder
 output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\visualizations_output\sample_list_of_authors.txt'
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(authors_sample.to_string(index=False))
+    f.write(f"\n\nThe total number of authors at the moment is {total_row_count}")
 print(f'Sample list of authors saved to {output_path}')
-print("Total Number of Authors at the Moment: 670")
+print(f"Total Number of Authors at the Moment: {total_row_count}")

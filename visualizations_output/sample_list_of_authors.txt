@@ -9,13 +9,15 @@ Name and Surname of Author               Date of Birth               Date of Dea
              Abdullah Aker                        1905                        1977
          Abdullah Türkoğlu                        1914                        1989
    Abdurrahman Vefik Sayın                        1856                        1956
-           Abraham Galante                        1873                        1961
-           Adil Samilizade Not available at the moment Not available at the moment
-               Adnan Suner                        1907                        1984
-            Adolf Heidborn Not available at the moment Not available at the moment
-          Adriene Biliotti Not available at the moment Not available at the moment
-                 Afet İnan                        1908                        1985
-              Ahmed Cevdet                        1823                        1895
-       Ahmed Hamid Ongunsu                        1885                        1967
-               Ahmed Hilmi Not available at the moment                        1878
-              Ahmed Midhat                        1844                        1912
+   Zeki Velidi Ahmet Togan                        1890                        1970
+           Zeki Zeybekoğlu Not available at the moment Not available at the moment
+          Zeyyat Hatipoğlu                        1925                        2018
+               Ziya Gökalp                        1876                        1924
+             Ziya İ. Lütfi                        1874 Not available at the moment
+           Ziya Karamürsel                        1873                        1957
+          Ziya Müezzinoğlu                        1919                        2020
+Ziyaeddin Fahri Fındıkoğlu                        1901                        1974
+       Zvi Yehuda Hershlag                        1914                        1999
+                       NaN Not available at the moment Not available at the moment
+
+The total number of authors at the moment is 671

@@ -21,7 +21,7 @@ plt.title('WordCloud for AI Summary in English')
 plt.tight_layout()
 
 # Save the wordcloud image to the visualizations folder
-output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\Files\output\ai_summary_wordcloud.png'
+output_path = r'C:\Users\altug\OneDrive\Desktop\All Files\Alles\7 Code\Turkish Political Economy Database\TRPolecon\Files\visualizations_output\ai_summary_wordcloud.png'
 plt.savefig(output_path)
 plt.show()
 print(f'Wordcloud saved to {output_path}')
